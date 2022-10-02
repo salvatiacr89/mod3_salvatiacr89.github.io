@@ -1,0 +1,24 @@
+
+/********* Base styles *********/
+
+.color-brand {
+	color: #F0F8FF;
+} 
+
+.navbar-items-style {
+	text-align: center;
+	color: #F0F8FF;
+}
+
+.row {
+	border: 2px solid;
+	border-color: white;
+}
+
+.row + .row {
+	border-top:0;
+}
+
+body {
+font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
